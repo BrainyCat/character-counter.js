@@ -1,5 +1,5 @@
 /*
-*   Title: Character-counter.js
+*       Title: Character-counter.js
 *	Desc:  Counts number of characters in a text field in HTML
 *	@author: https://github.com/BrainyCat/
 */

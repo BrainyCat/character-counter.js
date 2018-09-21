@@ -4,8 +4,9 @@ Script that counts characters of any field you can write on in HTML.
 Character-counter.js is a script that counts the characters in a text-input field. By default, character-counter.js looks for a text field
 with "id = messagebody" and appends the counter behind it.
 Also, by default, uses CSS variable 'color' from body for the color of the counter.
+<ul>
 <li>Character-counter.js supports copy and paste of text</li>
-
+</ul>
 
 
 <h2>HOW TO USE</h2>
